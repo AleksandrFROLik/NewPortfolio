@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewPortfolio.git/static/css/main.130e3ef5.css",
+    "main.js": "/NewPortfolio.git/static/js/main.2eb5502e.js",
+    "static/js/787.cfd8f164.chunk.js": "/NewPortfolio.git/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/NewPortfolio.git/index.html",
+    "main.130e3ef5.css.map": "/NewPortfolio.git/static/css/main.130e3ef5.css.map",
+    "main.2eb5502e.js.map": "/NewPortfolio.git/static/js/main.2eb5502e.js.map",
+    "787.cfd8f164.chunk.js.map": "/NewPortfolio.git/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.130e3ef5.css",
+    "static/js/main.2eb5502e.js"
+  ]
+}
